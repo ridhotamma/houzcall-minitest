@@ -1,0 +1,18 @@
+{
+  "name": "houzcall-miniteset",
+  "version": "1.0.0",
+  "description": "minitest project",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "ts-node ./1.ts && ts-node ./2.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "dotenv": "^10.0.0",
+    "moment": "^2.29.1",
+    "ts-node": "^10.4.0"
+  }
+}
